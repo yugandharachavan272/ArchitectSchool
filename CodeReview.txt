@@ -1,0 +1,25 @@
+CODE REVIEW POINTS
+1. PatientRepository.cs
+	getAllPatients - > check is list is null ?
+	
+2. Use pural forms like for patientVMlist use patiens 
+3. Implement try-catch and logg exception atlist in case of insert / update
+4. simplified initialization of model declaration like 
+	 PatientViewModel model = new PatientViewModel();
+	 PatientViewModel model = new PatientViewModel
+				{
+					Name = patientData.Name,
+					DateOfBirth = patientData.DateOfBirth,
+					Address = patientData.Address,
+					phone = patientData.phone,
+					Hospitalname = patientData.HospitalName
+				};
+			
+	soclass is defined without any constructors
+5. FOR // PUT: api/Hospital/5
+check id greate than 0
+6. In get patinetData by id check id is greater thna 0
+7. In get patinetData before setting data to view model check result is not null
+8. Post method should resturn somthing so that we can check insertaion done successfully or not
+9. simplify object initlization line no 55 getPatientById
+10. in db patientname, hospital name not null check is imp

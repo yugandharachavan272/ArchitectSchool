@@ -1,0 +1,43 @@
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.dll.config
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.pdb
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.SqlServer.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\Newtonsoft.Json.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Net.Http.Formatting.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.WebHost.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.SqlServer.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\Newtonsoft.Json.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Net.Http.Formatting.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.WebHost.xml
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.dll
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.pdb
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.Migrations.IntialMigration.resources
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.csproj.GenerateResource.Cache
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.Migrations.patient.resources
+D:\Enwisen\Sample Application\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.csprojResolveAssemblyReference.cache
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.dll.config
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\SimplePatientWebAPI.pdb
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.SqlServer.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\Newtonsoft.Json.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Net.Http.Formatting.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.WebHost.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\EntityFramework.SqlServer.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\Newtonsoft.Json.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Net.Http.Formatting.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\bin\System.Web.Http.WebHost.xml
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.Migrations.IntialMigration.resources
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.Migrations.patient.resources
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.csproj.GenerateResource.cache
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.csproj.CopyComplete
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.dll
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.pdb
+E:\ArchitechSchool\UnitTesting\Assignment_SimplePatientWebAPI\SimplePatientWebAPI\SimplePatientWebAPI\obj\Debug\SimplePatientWebAPI.csprojAssemblyReference.cache
